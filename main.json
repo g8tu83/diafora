@@ -27,6 +27,7 @@
   "NOTIOI": "https://srv.streamserver.gr:3451/stream/play.m3u8",
   "PISTI": "https://dev.aftermind.xyz/edge-hls/unitrust/pisti/playlist.m3u8",
   "PLUTON": "https://web.onair-radio.eu/plutontv/plutontv/playlist.m3u8",
+  "STENT": "https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8",
   "TV FILOPOLI": "https://live.streams.ovh/tvfilopoli/tvfilopoli/playlist.m3u8",
   "XPLORE": "https://web.onair-radio.eu/explorecy/explorecy/playlist.m3u8"
 }
