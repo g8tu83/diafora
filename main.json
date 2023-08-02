@@ -21,7 +21,7 @@
   "GREEK TV LONDON": "https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8",
   "GROOVY": "https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8",
   "IPPODROMIES": "https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie.m3u8",
-  "NETV": "https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8",
+  "NETV": "https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8",
   "NOTIOI": "https://srv.streamserver.gr:3451/stream/play.m3u8",
   "PISTI": "https://dev.aftermind.xyz/edge-hls/unitrust/pisti/playlist.m3u8",
   "PLUTON": "https://web.onair-radio.eu/plutontv/plutontv/playlist.m3u8",
