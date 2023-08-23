@@ -45,5 +45,43 @@
   "OMEGA": "https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8",
   "PLUTON": "https://web.onair-radio.eu/plutontv/plutontv/playlist.m3u8",
   "SIGMA": "https://sl1.sigmatv.com/hls/live.m3u8",
-  "XPLORE": "https://web.onair-radio.eu/explorecy/explorecy/playlist.m3u8"
+  "XPLORE": "https://web.onair-radio.eu/explorecy/explorecy/playlist.m3u8",
+  
+  "DEEP HOUSE": "https://ssh101.bozztv.com/ssh101/music/playlist.m3u8",
+  "GREEK": "https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8",
+  "GREEK 2": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8",
+  "RELAX": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
+  "RNB & HIP HOP": "https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8",
+  "CHOICE": "https://vod.streams.ovh:3528/stream/play.m3u8",
+  "DIAMOND": "https://kali.vdopanel.com:3122/stream/play.m3u8",
+  "MAGIC TV": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
+  "MESSATIDA": "https://vod.streams.ovh:3037/live/messatidatvlive.m3u8",
+  "MESSINIA": "https://til.pp.ua:3303/live/messiniatvlive.m3u8",
+  "MGR": "https://vod.streams.ovh:3876/stream/play.m3u8",
+  "NG RADIO": "https://live.streams.ovh/NGradio/NGradio/playlist.m3u8",
+  "NRG": "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8",
+  "PANIK": "https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8",
+  "REAL MUSIC": "https://livetv.streams.ovh:1936/realmusictv/realmusictv/playlist.m3u8",
+  "RELOAD PLAY": "https://web.onair-radio.eu/video/video/playlist.m3u8",
+  "ZOUGLA": "https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8",
+
+  
+  "PROTO": "https://streamcdnh11-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S37047288/fWnyc3NmjhNU/playlist.m3u8",
+  "DEFTERO": "https://streamcdnh10-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S63917843/t7Ly4bBYeE8n/playlist.m3u8",
+  "TRITO": "https://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S33097959/9qgk1Yu7Nsde/playlist.m3u8",
+  "D. LAIKA": "https://streamcdnh7-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S32611466/JHLxh0QKSJgG/playlist.m3u8",
+  "ERA SPORT": "https://streamcdnh11-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S49347363/xRqx56Q8XeUE/playlist.m3u8",
+  "KOSMOS": "https://streamcdnh4-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S72237690/nyOQH8BR5M8Y/playlist.m3u8",
+  "K. JAZZ": "https://streamcdnh8-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S58113226/z8D5fdAYcXqo/playlist.m3u8",
+  "MAESTRO": "https://streamcdnh11-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S26308510/EoxkbiqfCYxA/playlist.m3u8",
+  "R. EUROVISION": "https://streamcdnh1-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S56021689/pSI00WkSDekg/playlist.m3u8",
+  "ZEPPELIN": "https://streamcdnh5-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S52935822/9xsxAgAMT69z/playlist.m3u8",
+
+  
+  "AFARIN": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8",
+  "ANIME ZONE": "https://azxtv.com/hls/stream.m3u8",
+  "CONTV": "https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8",
+  "PBS KIDS": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m3u8",
+  "SMILE": "https://s1.cystream.net/live/smile/playlist.m3u8",
+  "TRT COCUK": "https://tv-trtcocuk.live.trt.com.tr/master.m3u8"
 }
