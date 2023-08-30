@@ -52,6 +52,7 @@
   "GREEK 2": "https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8",
   "RELAX": "https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8",
   "RNB & HIP HOP": "https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8",
+  "BCI MUSIC": "https://eu1.vectromdigital.com:1936/bcimusic/bcimusic/playlist.m3u8",
   "CHOICE": "https://vod.streams.ovh:3528/stream/play.m3u8",
   "DIAMOND": "https://kali.vdopanel.com:3122/stream/play.m3u8",
   "MAGIC TV": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
