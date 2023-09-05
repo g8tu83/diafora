@@ -82,6 +82,7 @@
 
   
   "AFARIN": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8",
+  "ANIME TV": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
   "ANIME ZONE": "https://azxtv.com/hls/stream.m3u8",
   "BCI KIDS": "https://eu1.vectromdigital.com:1936/bcikids/bcikids/playlist.m3u8",
   "CONTV": "https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8",
