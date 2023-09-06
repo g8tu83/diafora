@@ -38,7 +38,7 @@
   "ALFA SPORTS": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu",
   "ALPHA CY": "https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8",
   "ANT1 CY": "https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
-  "CITY": "https://dev.aftermind.xyz/hls/unitrust/citychannel/tracks-v1a1/mono.m3u8?token=8TXWzhY3h6jrzqEqu",
+  "CITY": "https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx",
   "DIGITAL": "https://livestream-player.digitaltv.com.cy/v1/01804bc1b4c709df730731f9d43d/01804bc1bd6a09df73103e2450a3/DigitaltreeTVOpH_1080PA.m3u8",
   "FAROS 1": "https://s1.cystream.net/live/faros1/playlist.m3u8",
   "FAROS 2": "https://s1.cystream.net/live/faros2/playlist.m3u8",
