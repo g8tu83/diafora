@@ -52,7 +52,7 @@
   "SIGMA": "https://sl1.sigmatv.com/hls/live.m3u8",
   "XPLORE": "https://web.onair-radio.eu/explorecy/explorecy/playlist.m3u8",
   
-  "MOUSIKA AD REQUEST MS": "60000",
+  "MOUSIKA AD REQUEST MS": "120000",
   
   "DEEP HOUSE": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
   "GREEK": "https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8",
