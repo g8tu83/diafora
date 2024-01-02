@@ -51,7 +51,7 @@
   "FAROS 1": "https://s1.cystream.net/live/faros1/playlist.m3u8",
   "FAROS 2": "https://s1.cystream.net/live/faros2/playlist.m3u8",
   "GROOVY": "https://web.onair-radio.eu/groovytv/groovytv/playlist.m3u8",
-  "OMEGA": "https://s1.cystream.net/live/omega/playlist.m3u8?nimblesessionid=65549658&wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjQgMTE6NTI6NTAgUE0maGFzaF92YWx1ZT1SSUJBcnJZTmdiOGdWSStzT2pmOEp3PT0mdmFsaWRtaW51dGVzPTIw",
+  "OMEGA": "https://s1.cystream.net/live/omega/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjQgMTE6NTI6NTAgUE0maGFzaF92YWx1ZT1SSUJBcnJZTmdiOGdWSStzT2pmOEp3PT0mdmFsaWRtaW51dGVzPTIw",
   "PLUTON": "https://web.onair-radio.eu/plutontv/plutontv/playlist.m3u8",
   "SIGMA": "https://sl1.sigmatv.com/hls/live.m3u8",
   "XPLORE": "https://web.onair-radio.eu/explorecy/explorecy/playlist.m3u8",
