@@ -44,7 +44,7 @@
   "RIK SAT": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
   "VOULI CY": "https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu",
   "ALFA SPORTS": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-  "ALPHA CY": "https://s1.cystream.net/live/alpha/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjQgMTE6NDE6MzEgUE0maGFzaF92YWx1ZT1uQ0JzdzdHZnZSeWtUVTN2K2JzSWJRPT0mdmFsaWRtaW51dGVzPTIw",
+  "ALPHA CY": "https://s1.cystream.net/live/alpha/chunks.m3u8?nimblesessionid=65549175&wmsAuthSign=c2VydmVyX3RpbWU9MS8yLzIwMjQgMTE6NDE6MzEgUE0maGFzaF92YWx1ZT1uQ0JzdzdHZnZSeWtUVTN2K2JzSWJRPT0mdmFsaWRtaW51dGVzPTIw",
   "ANT1 CY": "https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8",
   "CITY": "https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx",
   "DIGITAL": "https://livestream-player.digitaltv.com.cy/v1/01804bc1b4c709df730731f9d43d/01804bc1bd6a09df73103e2450a3/DigitaltreeTVOpH_1080PA.m3u8",
