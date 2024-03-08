@@ -66,6 +66,7 @@
   "BCI MUSIC": "https://eu1.vectromdigital.com:1936/bcimusic/bcimusic/playlist.m3u8",
   "CHOICE": "https://vod.streams.ovh:3528/stream/play.m3u8",
   "DIAMOND": "https://kali.vdopanel.com:3122/stream/play.m3u8",
+  "EUROVISION": "https://telmacosa.mmdlive.lldns.net/telmacosa/4f99481c100940639f69c0b8ea11e573/manifest.m3u8",
   "MAGIC TV": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
   "MESSATIDA": "https://vod.streams.ovh:3037/live/messatidatvlive.m3u8",
   "MESSINIA": "https://til.pp.ua:3303/live/messiniatvlive.m3u8",
