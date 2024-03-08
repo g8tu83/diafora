@@ -81,17 +81,17 @@
 
   
   "PROTO": "https://telmacosa.mmdlive.lldns.net/telmacosa/f7df69d92a994f64a341dbe8c6a656fa/manifest.m3u8",
-  "DEFTERO": "https://streamcdnh10-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S63917843/t7Ly4bBYeE8n/playlist.m3u8",
-  "TRITO": "https://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S33097959/9qgk1Yu7Nsde/playlist.m3u8",
-  "CHRISTMAS": "https://streamcdnh1-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S56021689/pSI00WkSDekg/playlist.m3u8",
+  "DEFTERO": "https://telmacosa.mmdlive.lldns.net/telmacosa/9ab43524970c477cbaa9e74683f3af9e/manifest.m3u8",
+  "TRITO": "https://telmacosa.mmdlive.lldns.net/telmacosa/d96d536846964ec0a6d80cba6175e838/manifest.m3u8",
+  "CHRISTMAS": "",
   "ERA SPORT": "https://telmacosa.mmdlive.lldns.net/telmacosa/ead1b69f33c54890b2a9a7bf7367454b/manifest.m3u8",
   "JAZZ": "https://telmacosa.mmdlive.lldns.net/telmacosa/def57112aeb54d19b38d2b8f76a8bd31/manifest.m3u8",
-  "KOSMOS": "https://streamcdnh4-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S72237690/nyOQH8BR5M8Y/playlist.m3u8",
-  "LAIKA": "https://streamcdnh7-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S32611466/JHLxh0QKSJgG/playlist.m3u8",
-  "MAESTRO": "https://streamcdnh11-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S26308510/EoxkbiqfCYxA/playlist.m3u8",
-  "PARADOSIAKA": "https://streamcdnh5-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S64396207/SMGpM9komNU0/playlist.m3u8",
-  "R. EUROVISION": "https://streamcdnh1-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S56021689/pSI00WkSDekg/playlist.m3u8",
-  "ZEPPELIN": "https://streamcdnh5-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S52935822/9xsxAgAMT69z/playlist.m3u8",
+  "KOSMOS": "https://telmacosa.mmdlive.lldns.net/telmacosa/285e8db9e9ab4a2ea3fb126e78ffe00c/manifest.m3u8",
+  "LAIKA": "https://telmacosa.mmdlive.lldns.net/telmacosa/9afa32d19d564bd48e4e4fc4c8295695/manifest.m3u8",
+  "MAESTRO": "https://telmacosa.mmdlive.lldns.net/telmacosa/20743a1e210944c9a27215ebc35ee7a3/manifest.m3u8",
+  "PARADOSIAKA": "https://telmacosa.mmdlive.lldns.net/telmacosa/090005496fc84da0bf3765a99eed238a/manifest.m3u8",
+  "R. EUROVISION": "",
+  "ZEPPELIN": "https://telmacosa.mmdlive.lldns.net/telmacosa/9db4583c866a45c3bb593942a7b7ae98/manifest.m3u8",
 
   
   "AFARIN": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8",
