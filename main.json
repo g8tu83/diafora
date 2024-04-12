@@ -43,7 +43,7 @@
   "RIK 1": "https://l6.cloudskep.com/rikcy/rik1/playlist.m3u8",
   "RIK 2": "https://l6.cloudskep.com/rikcy/rik2/playlist.m3u8",
   "RIK HD": "https://l6.cloudskep.com/rikcy/rikhd/playlist.m3u8",
-  "RIK SAT": "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+  "RIK SAT": "https://ertflix.s.llnwi.net/ertlive/rik/default/index.m3u8",
   "VOULI CY": "https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqu",
   "ALFA SPORTS": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
   "ALPHA CY": "https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8",
