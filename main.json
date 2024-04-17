@@ -103,6 +103,7 @@
   "ANIME ZONE": "https://azxtv.com/hls/stream.m3u8",
   "BCI KIDS": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
   "CONTV": "https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8",
+  "ERT KIDS": "https://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8",
   "KIDS TV": "https://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8",
   "PBS KIDS": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_125.m3u8",
   "RETRO": "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8",
