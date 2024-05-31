@@ -73,7 +73,7 @@
   "CHOICE": "https://vod.streams.ovh:3528/stream/play.m3u8",
   "ERT MUSIC": "https://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8",
   "DIAMOND": "https://kali.vdopanel.com:3122/stream/play.m3u8",
-  "EUROVISION CHANNEL": "https://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8",
+  "EUROVISION CHANNEL": "",
   "MAGIC TV": "https://itv.streams.ovh/magictv/magictv/playlist.m3u8",
   "MESSATIDA": "https://vod.streams.ovh:3037/live/messatidatvlive.m3u8",
   "MESSINIA": "https://til.pp.ua:3303/live/messiniatvlive.m3u8",
