@@ -1,5 +1,5 @@
 {
-  "DIAFORA AD REQUEST MS": "10000",
+  "DIAFORA AD REQUEST MS": "60000",
 
   "ERT NEWS 2": "https://ertflix.s.llnwi.net/ertlive/ertnews2/default/index.m3u8",
   "ERT NEWS 3": "https://ertflix.s.llnwi.net/ertlive/ertnews3/default/index.m3u8",
@@ -42,7 +42,7 @@
   "STENT": "https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8",
   "TV5 EUROPE": "https://ertflix.s.llnwi.net/ertlive/tv5/default/index.m3u8",
 
-  "CYPRUS AD REQUEST MS": "10000",
+  "CYPRUS AD REQUEST MS": "60000",
   
   "RIK 1": "https://l6.cloudskep.com/rikcy/rik1/playlist.m3u8",
   "RIK 2": "https://l6.cloudskep.com/rikcy/rik2/playlist.m3u8",
@@ -62,7 +62,7 @@
   "SIGMA": "https://sl1.sigmatv.com/hls/live.m3u8",
   "XPLORE": "https://web.onair-radio.eu/explorecy/explorecy/playlist.m3u8",
   
-  "MOUSIKA AD REQUEST MS": "10000",
+  "MOUSIKA AD REQUEST MS": "60000",
   
   "DEEP HOUSE": "https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8",
   "GREEK": "https://eco.streams.ovh:8081/barazatv/index.m3u8",
