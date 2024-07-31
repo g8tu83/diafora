@@ -40,6 +40,7 @@
   "NETV EUROPE": "https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8",
   "NOTIOI": "https://srv.streamserver.gr:3451/stream/play.m3u8",
   "PISTI": "https://dev.aftermind.xyz/edge-hls/unitrust/pisti/playlist.m3u8",
+  "STAR INTERNATIONAL": "https://livestar.siliconweb.com/starvod/star_int/star_inthd.m3u8",
   "STENT": "https://live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8",
   "TV5 EUROPE": "https://ertflix.s.llnwi.net/ertlive/tv5/default/index.m3u8",
 
